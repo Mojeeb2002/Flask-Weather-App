@@ -38,5 +38,3 @@ def get_weather():
 if __name__ == '__main__':
     serve(app, host='0.0.0.0', port=3000)
 
-#This code is written by @Mojeeb
-#https://github.com/Mojeeb2002
